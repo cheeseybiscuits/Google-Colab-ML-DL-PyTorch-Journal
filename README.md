@@ -1,4 +1,5 @@
-#Welcome! 😊
+Welcome! 😊
+
 This Notebook goes over the basic fundamentals of Machine Learning/Deep Learning using PyTorch.
 
 I am following along freeCodeCamp.org's full course on Youtube: https://www.youtube.com/watch?v=V_xro1bcAuA
